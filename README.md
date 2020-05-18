@@ -1,2 +1,5 @@
 # hello-world
-Just a new repository
+
+Greetings earthlings!
+
+I'm lobsie and I like coding a lot!
